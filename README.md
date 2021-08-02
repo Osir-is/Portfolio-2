@@ -3,6 +3,9 @@
 
 The portfolio is a webpage made up of a JavaScript, CSS and HTML file. Its purpose is to serve as evidence of my complete work as a web developer and will be updated regularly to showcase my work to future employers
 
+## Deployed live link
+https://osir-is.github.io/Portfolio-2/
+
 ## Task Objective
 
 
